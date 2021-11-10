@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nazoclient">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/nazoclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
